@@ -1,0 +1,5 @@
+Justinas, Plauska
+Pradiniai argumentai,12,68
+XOR1, XOR2, XOR3, XOR4
+((~A&B)|(~B&A)),(A^B),((A|B)&(~(A&B))),(A|B)&(~A|!B)
+72,72,72,72,
